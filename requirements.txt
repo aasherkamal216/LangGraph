@@ -1,5 +1,7 @@
 langchain
 python-dotenv
+ipykernel
+tiktoken
 langgraph
 langchain_community
 pypdf
@@ -10,10 +12,6 @@ bs4
 langchain-google-genai
 google-generativeai
 langchain-cohere
-sentence-transformers
-langchain-huggingface
-langchain-chroma
-chromadb
 faiss-cpu
 streamlit
 langchain-groq
@@ -21,4 +19,3 @@ langserve
 wikipedia
 langchainhub
 duckduckgo-search
-huggingface_hub
