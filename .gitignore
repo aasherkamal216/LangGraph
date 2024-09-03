@@ -128,4 +128,5 @@ env/
 venv/
 LangGraph/chroma_db
 LangGraph/faiss_index
+LangGraph/devsinc_faiss_index
 db/

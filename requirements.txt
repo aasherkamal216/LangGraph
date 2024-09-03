@@ -19,3 +19,4 @@ langserve
 wikipedia
 langchainhub
 duckduckgo-search
+rich
